@@ -1,8 +1,3 @@
-Below is the **same professional GitHub README**, rewritten **without any emojis**, clean and formal.
-You can copy and paste this directly into `README.md`.
-
----
-
 # Employee Attrition Prediction Web App
 
 An end-to-end Machine Learning web application that predicts whether an employee is likely to leave an organization using Logistic Regression, deployed with Flask.
@@ -76,7 +71,7 @@ attrition_app/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/employee-attrition-prediction.git
+git clone 
 cd employee-attrition-prediction
 ```
 
@@ -144,9 +139,4 @@ This project is provided for educational and demonstration purposes.
 
 ---
 
-If you want, I can also generate:
-
-* `requirements.txt`
-* a short GitHub repository description
-* suggested GitHub topics/tags
-* resume bullet points for this project
+ 
