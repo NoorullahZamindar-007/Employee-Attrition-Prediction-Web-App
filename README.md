@@ -1,56 +1,60 @@
-#Employee Attrition Prediction Web App
+Below is the **same professional GitHub README**, rewritten **without any emojis**, clean and formal.
+You can copy and paste this directly into `README.md`.
+
+---
+
+# Employee Attrition Prediction Web App
 
 An end-to-end Machine Learning web application that predicts whether an employee is likely to leave an organization using Logistic Regression, deployed with Flask.
 
 This project demonstrates the complete machine learning workflow, including data preprocessing, model training, and web deployment.
 
-Project Overview
+---
+
+## Project Overview
 
 Employee attrition is a critical challenge for organizations. This system predicts attrition risk based on employee attributes such as experience, age, job role match, promotion status, department, gender, and tenure.
 
 The application provides a user-friendly web interface with probability-based predictions for informed decision-making.
 
-Machine Learning Details
+---
 
-Algorithm: Logistic Regression
+## Machine Learning Details
 
-Problem Type: Binary Classification (Stay / Leave)
-
-Number of Features: 23
-
-Target Variable: Stay/Left
-
-Output: Probability-based prediction
+* Algorithm: Logistic Regression
+* Problem Type: Binary Classification (Stay / Leave)
+* Number of Features: 23
+* Target Variable: Stay/Left
+* Output: Probability-based prediction
 
 The model was trained without data leakage by excluding the target variable from the input features.
 
-Technology Stack
+---
 
-Programming Language: Python
+## Technology Stack
 
-Libraries: Pandas, NumPy, Scikit-learn
+* Programming Language: Python
+* Libraries: Pandas, NumPy, Scikit-learn
+* Web Framework: Flask
+* Frontend: HTML, CSS
+* Model Persistence: Pickle
 
-Web Framework: Flask
+---
 
-Frontend: HTML, CSS
+## Key Features
 
-Model Persistence: Pickle
+* End-to-end machine learning pipeline
+* One-hot encoded categorical features
+* Logistic Regression classifier
+* Probability-based prediction output
+* Flask web application
+* Modular and clean project structure
 
-Key Features
+---
 
-End-to-end machine learning pipeline
+## Project Structure
 
-One-hot encoded categorical features
-
-Logistic Regression classifier
-
-Probability-based prediction output
-
-Flask web application
-
-Modular and clean project structure
-
-Project Structure
+```
 attrition_app/
 │
 ├── app.py
@@ -63,60 +67,86 @@ attrition_app/
 │   └── result.html
 │
 └── README.md
+```
 
-How to Run the Project Locally
-Step 1: Clone the repository
-git clone ................
+---
+
+## How to Run the Project Locally
+
+### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/your-username/employee-attrition-prediction.git
 cd employee-attrition-prediction
+```
 
-Step 2: Install dependencies
+### Step 2: Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-Step 3: Run the Flask application
+### Step 3: Run the Flask application
+
+```bash
 python app.py
+```
 
-Step 4: Open in a browser
+### Step 4: Open in a browser
+
+```
 http://127.0.0.1:5000
+```
 
-Output Example
+---
 
-Prediction: Not Likely to Leave
+## Output Example
 
-Probability of Staying: 96.01 percent
-
-Probability of Leaving: 3.99 percent
+* Prediction: Not Likely to Leave
+* Probability of Staying: 96.01 percent
+* Probability of Leaving: 3.99 percent
 
 These results support data-driven HR decisions.
 
-Use Cases
+---
 
-Human resource analytics
+## Use Cases
 
-Employee retention strategy
+* Human resource analytics
+* Employee retention strategy
+* Machine learning portfolio project
+* Educational reference for ML and Flask integration
 
-Machine learning portfolio project
+---
 
-Educational reference for ML and Flask integration
+## Future Enhancements
 
-Future Enhancements
+* Feature importance and model explainability
+* UI improvements using Bootstrap
+* Cloud deployment
+* Authentication and role-based access
 
-Feature importance and model explainability
+---
 
-UI improvements using Bootstrap
-
-Cloud deployment
-
-Authentication and role-based access
-
-Author
+## Author
 
 Noorullah Zamindar
 Machine Learning and AI Engineer
 
-LinkedIn: https://www.linkedin.com/in/noorullah-zamindar-4975a328a/
+LinkedIn: [https://www.linkedin.com/in/noorullah-zamindar-4975a328a/](https://www.linkedin.com/in/noorullah-zamindar-4975a328a/)
+GitHub: [https://github.com/NoorullahZamindar-007](https://github.com/NoorullahZamindar-007)
 
-GitHub: https://github.com/NoorullahZamindar-007
+---
 
-License
+## License
 
 This project is provided for educational and demonstration purposes.
+
+---
+
+If you want, I can also generate:
+
+* `requirements.txt`
+* a short GitHub repository description
+* suggested GitHub topics/tags
+* resume bullet points for this project
