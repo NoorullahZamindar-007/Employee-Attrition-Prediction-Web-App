@@ -21,7 +21,7 @@ The application provides a user-friendly web interface with probability-based pr
 * Number of Features: 23
 * Target Variable: Stay/Left
 * Output: Probability-based prediction
-
+ 
 The model was trained without data leakage by excluding the target variable from the input features.
 
 ---
