@@ -6,7 +6,7 @@ This project demonstrates the complete machine learning workflow, including data
 
 --- 
     
-## Project Overview  
+## Project Overview   
 
 Employee attrition is a critical challenge for organizations. This system predicts attrition risk based on employee attributes such as experience, age, job role match, promotion status, department, gender, and tenure.
    
