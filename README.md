@@ -12,7 +12,7 @@ Employee attrition is a critical challenge for organizations. This system predic
     
 The application provides a user-friendly web interface with probability-based predictions for informed decision-making. 
      
---- 
+---  
     
 ## Machine Learning Details    
   
