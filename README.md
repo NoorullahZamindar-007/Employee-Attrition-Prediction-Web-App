@@ -14,7 +14,7 @@ The application provides a user-friendly web interface with probability-based pr
           
 ---     
        
-## Machine Learning Details          
+## Machine Learning Details           
      
 * Algorithm: Logistic Regression    
 * Problem Type: Binary Classification (Stay / Leave)
