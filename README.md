@@ -17,7 +17,7 @@ The application provides a user-friendly web interface with probability-based pr
 ## Machine Learning Details             
      
 * Algorithm: Logistic Regression      
-* Problem Type: Binary Classification (Stay / Leave)
+* Problem Type: Binary Classification (Stay / Leave) 
 * Number of Features: 23
 * Target Variable: Stay/Left
 * Output: Probability-based prediction
